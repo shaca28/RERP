@@ -1,0 +1,15 @@
+.cabecalho__countainer{
+    display: flex;
+    background: #CCCCCC;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+}
+
+.logo__item {
+    background-image: url(logo.png);
+    background-repeat: no-repeat;
+    padding: 40px 70px;
+    cursor: pointer;
+}
